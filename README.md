@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Creating a browser game.
 - 🌱 I’m currently learning ... html<5>, css{3}
 - 💞️ I’m looking to collaborate on ... Nothing at the moment, I am in learning mode.
-- 📫 How to reach me ... scherme@mgail.com
+- 📫 How to reach me ... scherme@gmail.com
 
 <!---
 Scherme/Scherme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
